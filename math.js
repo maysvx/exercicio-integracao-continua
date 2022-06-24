@@ -1,4 +1,6 @@
 function soma(a, b) {
+    a + b 
+
 }
 function subtracao(a, b) {
 }
